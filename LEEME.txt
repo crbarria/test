@@ -1,0 +1,20 @@
+
+Datos: Cristian Ignacio Barría Canales
+
+Numero: +569 9811 1729
+
+Correo: Cristian.barria2018@gmail.com
+
+----------------------------------------------------
+
+Instalacion:
+
+Xammp
+
+Visual studio code y las respectivas instalaciones para PHP (extensiones)
+
+PHP 8.2.4
+
+Base de datos MYSQL 8.2.4 
+
+
